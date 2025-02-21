@@ -107,11 +107,9 @@ json
 🛠️ How to Run the Project
 
 1️⃣ Clone the Repository
-sh
-
 
 git clone https://github.com/MrHope123/Etalente_Project.git
-cd enviro365-waste-sorting
+cd Etalente_Project
 
 2️⃣ Run the Application
 
