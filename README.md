@@ -22,7 +22,6 @@ The project is designed to be **scalable, efficient, and user-friendly**, levera
 
 ## ⚙️ Project Structure  
 
-Okay, here's the project structure based on the image you provided, formatted for clarity:
 
 Project: Etalente Project [Spring Boot]
 
