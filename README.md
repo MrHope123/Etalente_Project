@@ -23,36 +23,36 @@ The project is designed to be **scalable, efficient, and user-friendly**, levera
 ## ⚙️ Project Structure  
 
 
-Project: Etalente Project [Spring Boot]
+-Project: Etalente Project [Spring Boot]
 
-main
-java
-com.enviro.assessment.grad001.fulufhelomaluleke
-controller
-        DisposalGuidelineController.java
-        RecyclingTipController.java
-        WasteCategoryController.java
-exception
-        GlobalExceptionHandler.java 
-        ResourceNotFoundException.java
-model
-        DisposalGuideline.java
-        RecyclingTip.java
-        WasteCategory.java
-repository
-        DisposalGuidelineRepository.java
-        RecyclingTipRepository.java
-        WasteCategoryRepository.java
-service
-        DisposalGuidelineService.java
-        RecyclingTipService.java
-        WasteCategoryService.java
-Application.java (Main Spring Boot application class - annotated with @SpringBootApplication)
-resources
-static (Directory - For static assets like CSS, JavaScript, images if used)
-templates (Directory - For Thymeleaf or other template files if used)
+-main
+-java
+-com.enviro.assessment.grad001.fulufhelomaluleke
+-controller
+        -DisposalGuidelineController.java
+        -RecyclingTipController.java
+       -WasteCategoryController.java
+-exception
+        -GlobalExceptionHandler.java 
+       - ResourceNotFoundException.java
+-model
+       - DisposalGuideline.java
+       - RecyclingTip.java
+        -WasteCategory.java
+-repository
+       - DisposalGuidelineRepository.java
+        -RecyclingTipRepository.java
+        -WasteCategoryRepository.java
+-service
+        -DisposalGuidelineService.java
+        -RecyclingTipService.java
+        -WasteCategoryService.java
+-Application.java (Main Spring Boot application class - annotated with @SpringBootApplication)
+-resources
+-static (Directory - For static assets like CSS, JavaScript, images if used)
+-templates (Directory - For Thymeleaf or other template files if used)
 
-application.properties (File - Spring Boot configuration)
+-application.properties (File - Spring Boot configuration)
 
 
 
