@@ -1,8 +1,13 @@
 # 🌱 Enviro365 Waste Sorting API  
 
 ## 📌 Project Overview  
-The **Enviro365 Waste Sorting API** is a **Spring Boot** application that provides RESTful endpoints to support a mobile application for **sustainable waste management**.  
+
+## Enviro365 Waste Sorting App - Spring Boot REST API
+
+This repository contains the Spring Boot REST API for the Enviro365 waste sorting mobile application.  It provides endpoints for managing waste categories, disposal guidelines, and recycling tips.
+ 
 This API enables users to:  
+
 ✅ Retrieve waste categories  
 ✅ Access disposal guidelines  
 ✅ Get recycling tips  
