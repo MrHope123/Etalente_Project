@@ -31,8 +31,8 @@ The project is designed to be **scalable, efficient, and user-friendly**, levera
 ### 📌 **Disposal Guidelines**
 | Method | Endpoint              | Description |
 |--------|----------------------|-------------|
-| `GET`  | `/api/guidelines`     | Get all disposal guidelines |
-| `POST` | `/api/guidelines`     | Create a new disposal guideline |
+| GET  | /api/guidelines     | Get all disposal guidelines |
+| POST | /api/guidelines     | Create a new disposal guideline |
 
 📌 **Example Request:**  
 json
@@ -53,13 +53,13 @@ json
 
 📌 Recycling Tips
 Method	Endpoint	Description
-GET	/api/tips	Get all recycling tips
+GET     /api/tips	Get all recycling tips
 POST	/api/tips	Add a new recycling tip
+
 📌 Example Request:
 
 json
-Copy
-Edit
+
 POST /api/tips
 {
     "tip": "Separate glass and plastic before disposal"
@@ -67,8 +67,7 @@ POST /api/tips
 📌 Example Response:
 
 json
-Copy
-Edit
+
 {
     "id": 1,
     "tip": "Separate glass and plastic before disposal"
@@ -79,7 +78,7 @@ Edit
 sh
 
 
-git clone https://github.com/your-username/enviro365-waste-sorting.git
+git clone https://github.com/MrHope123/Etalente_Project.git
 cd enviro365-waste-sorting
 
 2️⃣ Run the Application
